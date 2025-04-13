@@ -57,7 +57,7 @@ import Footer from "../components/Footer.vue";
   width: 100%;
   box-sizing: border-box;
 
-  background-image: url("pickleball.jpg");
+  background-image: url("/Rally-House/pickleball.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
