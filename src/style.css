@@ -28,6 +28,9 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  font-family: "Inter", sans-serif;
+  background-color: #fafafa;
+  color: #333;
 }
 
 h1 {
@@ -76,4 +79,21 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+.container {
+  max-width: 1000px;
+  width: 100%;
+  margin: 0 auto;
+}
+.layout-content {
+  background: #f8f8f8;
+}
+.layout-footer {
+  background: #e0f0e0;
+}
+
+.n-layout-footer {
+  background: linear-gradient(to right, #18a058, #0c7a43);
+  color: white;
 }
