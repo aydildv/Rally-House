@@ -1,3 +1,5 @@
+<!-- adapted this code from ChatGPT -->
+
 <template>
   <section class="home-wrapper">
     <h2 class="headline">

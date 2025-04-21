@@ -1,3 +1,5 @@
+<!-- adapted this code from ChatGPT -->
+
 <template>
   <section class="subscribe-wrapper">
     <template v-if="!submitted">

@@ -1,3 +1,5 @@
+<!-- adapted this code from ChatGPT -->
+
 <template>
   <section class="about-wrapper">
     <h2 class="headline">About Rally House</h2>

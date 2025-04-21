@@ -1,3 +1,4 @@
+<!-- adapted this code from ChatGPT -->
 <template>
   <n-config-provider>
     <n-message-provider>
